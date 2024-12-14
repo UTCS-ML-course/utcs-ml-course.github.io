@@ -7,7 +7,7 @@ has_toc: false
 ---
 <center>
 <div style="margin-bottom:1.5em">
-<img src="/assets/images/utcslogo2.jpg" width="12%">
+<img src="assets/images/utcslogo2.jpg" width="12%">
 <!-- <img src="/assets/images/790-placeholder.png" width="12%"> -->
 </div>
 
@@ -32,18 +32,10 @@ has_toc: false
 
 ## Course Overview
 
-- Probabilistic foundations of machine learning; offered in fall semesters; 12 units (3-0-9)
-- Prerequisites:
-  - Introductory machine learning (at the level of [6.390](https://introml.mit.edu) or [6.370](http://student.mit.edu/catalog/m6c.html#6.3700) or [6.C01](http://student.mit.edu/catalog/m6e.html#6.C01))
-  - Linear algebra (at the level of [18.06](https://github.com/mitmath/1806) or [18.C06](https://canvas.mit.edu/courses/16629))
-  - Probability (at the level of [6.3700](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/readings/), [6.3800](http://student.mit.edu/catalog/m6c.html#6.3800), or [18.600](https://math.mit.edu/~sheffield/spring2022math600.html))
-- Brief description: Probabilistic thinking is critical to understanding machine learning, in techniques ranging from classic linear models to modern deep networks.  We will study model representation, generalization, learning algorithms, and model-selection with mathematical rigor as well as an emphasis on how to apply these methods in applications with real-world consequence.
-- A syllabus can be found [here](/info/calendar)
+This graduate course can be more aptly titled Fundamentals of Machine Learning. It is a gateway course to more advanced and specialized graduates courses on the topic, for example, courses that specialize in deep learning. To enjoy the course you should have a solid background in linear algebra, probability and statistics, and multivariate calculus. Refreshers on these topics will be done in class but they will necessarily be brief. If you are weak in any of these, you may find the course challenging. Topics covered include supervised methods (regression, classification), unsupervised methods (clustering, principal components analysis, non-linear dimensionality reduction), and self-supervised learning. The technical tools used in the course will draw from linear algebra, probability, multivariate statistics and optimization. A substantial portion of the grade will depend on student homeworks and projects; projects can vary in their theoretical/mathematical content, and in the implementation/programming involved. Projects will be conducted by teams of 2-3 students.
+
+**Pre-requisites**: Basics (undergraduate level) of linear algebra (M341 or equivalent).
 
 ## Course Components
 
-We will have weekly lectures and problem sessions (schedule details can be found [here](/info/schedule/)); complementing those are written homework, small projects, a midterm and a final exam. 
-
-## Course Number Change
-
-Since Fall 22, all MIT EECS subjects have been renumbered (rationale and details can be found [here](https://www.eecs.mit.edu/academics/subject-numbering/)). This subject used to be called 6.867; moving forward, it will be 6.790, eventually. But for registration purposes, please register for **6.7900** (note the extra trailing zero) during this current transition phase.
+We will have weekly lectures, written homework, small projects, a midterm and a final exam (schedule details can be found [here](/info/schedule/)).
