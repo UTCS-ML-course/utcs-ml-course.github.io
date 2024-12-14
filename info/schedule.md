@@ -1,15 +1,16 @@
 ---
-title: Weekly Schedule
-description: The weekly event schedule.
-nav_order: 2
+title: Schedule
+description: Listing of course modules and topics.
+nav_order: 0
+#nav_exclude: true
+
 ---
 
-# Weekly Schedule
+# Course Schedule
 
-Some quick notes:
-- TA office hours will be posted soon.
-- In a nominal week, we have two lectures (each covers different material) and four recitation sessions (all four cover the same material).
+{: .warning}
+Topics are subject to update.
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}

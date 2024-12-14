@@ -18,7 +18,7 @@ nav_order: 5
 - [SB]/[SSS] [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), Shalev-Shwartz and Ben-David; Cambridge University Press, 2014.
 - [JWHT] [An Introduction to Statistical Learning](https://www.statlearning.com/), James, Witten, Hastie, and Tibshirani; Springer, 2013.
 
-All freely accessible (an MIT IP may be required)
+All freely accessible
 
 
 
