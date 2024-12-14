@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 6.790 <br> Machine Learning
-tagline: 6.790 Machine Learning, Fall 2024
-email: 6.790-website@mit.edu
-description: "Graduate Machine Learning Course, MIT EECS, Fall 2024."
+title: CS391L <br> Machine Learning
+tagline: CS391L Machine Learning, Spring 2025
+email: CS391L-website@mit.edu
+description: "Graduate Machine Learning WB Course, UTCS, Spring 2025."
 # logo: "/assets/images/790-txt.png"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gradml.mit.edu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://example.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # remote_theme: "just-the-docs"
@@ -55,7 +55,7 @@ nav_next_prev: true
 last_edit_timestamp: true
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "✏️ Edit this page on GitHub"
-gh_edit_repository: "https://github.com/790gradml/gradML"
+gh_edit_repository: "https://github.com/UTCS-ML-course/gradML"
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree"
@@ -85,7 +85,7 @@ last-modified-at:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-color_scheme: wider
+color_scheme: utcs
 exclude:
   - .sass-cache/
   - .jekyll-cache/
