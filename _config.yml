@@ -74,9 +74,9 @@ math_engine_opts:
     katex_opts:
         throwOnError: false
         macros: {} # lots of macros here
-math: mathjax
+# math: mathjax
 math: katex
-markdown: Pandoc
+# markdown: Pandoc
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
