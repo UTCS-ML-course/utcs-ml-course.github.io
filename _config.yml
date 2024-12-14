@@ -25,11 +25,11 @@ description: "Graduate Machine Learning WB Course, UTCS, Spring 2025."
 # logo: "/assets/images/790-txt.png"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://utcs-ml-course.github.io/gradML/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-# remote_theme: "just-the-docs"
-# theme: "just-the-docs"
+remote_theme: "just-the-docs"
+theme: "just-the-docs"
 heading_anchors: true
 permalink: pretty
 aux_links:
@@ -39,7 +39,7 @@ aux_links:
     - "https://piazza.com/class/lzy7kgi6f2n4fs/"
 aux_links_new_tab: true
 
-#remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-default-layout
@@ -63,20 +63,20 @@ gh_edit_view_mode: "tree"
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
   date-format: "%d-%b-%Y"
-# kramdown:
-# math_engine: katex
-# input: GFMKatex # GFMKatex class from sp301415 is in _plugins/server-side-math.rb
-# math_engine_opts:
-#     katex_js: "assets/js/katex.min.js"
-#     debug: true
-#     verbose: true
-#     js_run: Node
-#     katex_opts:
-#         throwOnError: false
-#         macros: {} # lots of macros here
-# math: mathjax
-# math: katex
-# markdown: Pandoc
+kramdown:
+math_engine: katex
+input: GFMKatex # GFMKatex class from sp301415 is in _plugins/server-side-math.rb
+math_engine_opts:
+    katex_js: "assets/js/katex.min.js"
+    debug: true
+    verbose: true
+    js_run: Node
+    katex_opts:
+        throwOnError: false
+        macros: {} # lots of macros here
+math: mathjax
+math: katex
+markdown: Pandoc
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
