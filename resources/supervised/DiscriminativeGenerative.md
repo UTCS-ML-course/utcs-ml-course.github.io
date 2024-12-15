@@ -1,6 +1,8 @@
 ---
 title: Discriminative vs Generative Classification
 nav_order: 1
+parent: Supervised Learning
+grand_parent: Resources
 ---
 
 # Discriminative vs Generative Classification

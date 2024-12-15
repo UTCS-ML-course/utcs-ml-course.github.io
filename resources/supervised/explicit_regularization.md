@@ -1,6 +1,8 @@
 ---
 title: Explicit Regularization
 nav_order: 4
+parent: Supervised Learning
+grand_parent: Resources
 ---
 # Regularization
 {: .no_toc}

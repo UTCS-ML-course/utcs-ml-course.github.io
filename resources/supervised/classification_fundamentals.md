@@ -1,6 +1,8 @@
 ---
 title: Classification Fundamentals
 nav_order: 0
+parent: Supervised Learning
+grand_parent: Resources
 ---
 
 # Classification Fundamentals

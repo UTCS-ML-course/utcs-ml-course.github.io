@@ -1,6 +1,8 @@
 ---
 title: Overview
 nav_order: 1
+parent: Reinforcement Learning
+grand_parent: Resources
 ---
 
 # Reinforcement Learning

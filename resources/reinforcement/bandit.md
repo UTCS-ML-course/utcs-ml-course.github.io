@@ -1,6 +1,8 @@
 ---
 title: Bandits
 nav_order: 2
+parent: Reinforcement Learning
+grand_parent: Resources
 ---
 
 # Interpretations and Connections

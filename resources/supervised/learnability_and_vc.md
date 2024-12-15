@@ -1,6 +1,8 @@
 ---
 title: Learnability and VC Dimension
 nav_order: 2
+parent: Supervised Learning
+grand_parent: Resources
 ---
 
 

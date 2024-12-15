@@ -1,6 +1,8 @@
 ---
 title: Markov Decision Process
 nav_order: 3
+parent: Reinforcement Learning
+grand_parent: Resources
 ---
 
 

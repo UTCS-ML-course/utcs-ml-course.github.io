@@ -1,6 +1,8 @@
 ---
 title: Deep Reinforcement Learning
 nav_order: 5
+parent: Reinforcement Learning
+grand_parent: Resources
 ---
 # Deep RL
 In a simplified sense, deep RL can be thought of as snapping a deep neural architecture onto whatever we use to learn -- similar to the leap from logistic regression, to the modern-day deep nets like CNNs, for the same task of classification. But beneath the simple "tool-box change" lies all sorts of new challenges, solutions, and insights -- after all, deep learning is itself a sort of standalone subject (and we do have a class on that at EECS; shout out to Philip!) 

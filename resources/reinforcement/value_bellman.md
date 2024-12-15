@@ -1,6 +1,8 @@
 ---
 title: Value functions and Bellman
 nav_order: 4
+parent: Reinforcement Learning
+grand_parent: Resources
 ---
 
 ## Value Functions

@@ -1,6 +1,8 @@
 ---
 title: Regression 
 nav_order: 3
+parent: Supervised Learning
+grand_parent: Resources
 ---
 
 

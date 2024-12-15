@@ -1,7 +1,7 @@
 ---
 title: Books
 description: Listing of textbooks and recommended readings for the course.
-nav_order: 5
+nav_order: 0
 #nav_exclude: true
 
 ---

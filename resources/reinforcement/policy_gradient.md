@@ -1,6 +1,8 @@
 ---
 title: Policy Gradient
 nav_order: 5
+parent: Reinforcement Learning
+grand_parent: Resources
 ---
 
 
