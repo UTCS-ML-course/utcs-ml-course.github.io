@@ -1,11 +1,13 @@
+$utcs-orange: rgba(191, 87, 0, 1);
+$utcs-orange-light: rgba(191, 87, 0, 0.5);
 $body-background-color: $black !default;
 $body-heading-color: $grey-dk-300 !default;
 $body-text-color: $grey-dk-100 !default;
-$link-color: #bf5700;
+$link-color: $utcs-orange;
 $nav-child-link-color: $grey-dk-100 !default;
 $sidebar-color: $grey-lt-000 !default;
 $base-button-color: #f7f7f7 !default;
-$btn-primary-color: #bf5700;
+$btn-primary-color: $utcs-orange;
 $code-background-color: $grey-lt-000 !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
 $table-background-color: $white !default;

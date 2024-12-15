@@ -6,16 +6,15 @@ title: Class schedule
     : **Assignment**
         : **Reading**
 
-Sep/5
-: **Lecture 1**{: .label .label-red} [Foundations of machine learning](/main/Lectures/#lecture-1)
-    : [HW0](/main/homeworks/#homework-0) out
-        : [[M1]](/info/books/#primary-textbooks) <br> Ch1
+Jan 13
+: **Lecture 1**{: .label .label-orange} Course Introduction
 
+Jan 15
+: **Lecture 2**{: .label .label-orange} [Foundations of machine learning](main/Lectures/#lecture-1)
+    : [HW0](main/homeworks/#homework-0) out
+        : [[M1]](info/books/#primary-textbooks) <br> Ch1
 
-Sep/6
-: **No Problem session**{: .label .label-gray}
-
-Sep/10
+<!-- Sep/10
 : **Lecture 2**{: .label .label-red} [Parameter estimation](/main/Lectures/#lecture-2)
     : [HW0](/main/homeworks/#homework-0) due <br> [HW1](/main/homeworks/#homework-1) out 
         : [[M1]](/info/books/#primary-textbooks) <br> Ch4.2
@@ -186,4 +185,4 @@ Dec/6
     : MP2 due
 
 Dec/10
-: **Review**{: .label .label-blue}
+: **Review**{: .label .label-blue} -->

@@ -8,6 +8,7 @@ has_toc: false
 <center>
 <div style="margin-bottom:1.5em">
 <img src="assets/images/utcslogo2.jpg" width="12%">
+<!-- <img src="assets/images/utcslogo.png" width="50%"> -->
 <!-- <img src="/assets/images/790-placeholder.png" width="12%"> -->
 </div>
 

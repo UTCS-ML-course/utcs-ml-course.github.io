@@ -7,7 +7,7 @@ in_row: true
 ---
 
 
-# Instructors
+# Instructor
 {% if page.in_row %}
 <div class="staff-row">
 {% else %}
@@ -24,7 +24,7 @@ in_row: true
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
-# Teaching Assistants
+# Teaching Assistant
 {% if page.in_row %}
 <div class="staff-row">
 {% else %}
