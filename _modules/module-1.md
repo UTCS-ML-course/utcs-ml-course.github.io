@@ -10,9 +10,9 @@ Jan 13
 : **Lecture 1**{: .label .label-orange} Course Introduction
 
 Jan 15
-: **Lecture 2**{: .label .label-orange} [Foundations of machine learning](main/Lectures/#lecture-1)
+: **Lecture 2**{: .label .label-orange} [Foundations of machine learning](/gradML/main/Lectures/#lecture-1)
     : [HW0](/gradML/main/homeworks/#homework-0) out
-        : [[M1]](info/books/#primary-textbooks) <br> Ch1
+        : [[M1]](/gradML/info/books/#primary-textbooks) <br> Ch1
 
 <!-- Sep/10
 : **Lecture 2**{: .label .label-red} [Parameter estimation](/main/Lectures/#lecture-2)
