@@ -74,7 +74,8 @@ kramdown:
       katex_opts:
           throwOnError: false
           macros: {} # lots of macros here
-# math: mathjax
+math: mathjax
+mathjax: true
 # math: katex
 # markdown: Pandoc
 # Exclude from processing.
