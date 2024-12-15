@@ -65,7 +65,7 @@ last-modified-at:
   date-format: "%d-%b-%Y"
 kramdown:
   math_engine: katex
-  input: GFMKatex # GFMKatex class from sp301415 is in _plugins/server-side-math.rb
+  # input: GFMKatex # GFMKatex class from sp301415 is in _plugins/server-side-math.rb
   math_engine_opts:
       katex_js: "assets/js/katex.min.js"
       debug: true
