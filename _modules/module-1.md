@@ -14,6 +14,94 @@ Jan 15
     : [HW0](/gradML/main/homeworks/#homework-0) out
         : [[M1]](/gradML/info/books/#primary-textbooks) <br> Ch1
 
+Jan 20
+: **MLK Day!**{: .label .label-gray} No lecture
+
+Jan 22
+: **Lecture 3**{: .label .label-orange} Linear Algebra Review
+
+Jan 27
+: **Lecture 4**{: .label .label-orange} SVD and Regression
+
+Jan 29
+: **Lecture 5**{: .label .label-orange} Overfitting, Regularization in Regression (Ridge Regressioin & Lasso) 
+    : [HW1](/gradML/main/homeworks/#homework-1) out
+
+Feb 3
+: **Lecture 6**{: .label .label-orange} Matrix Completion/Factorization for missing value estimation
+
+Feb 5
+: **Lecture 7**{: .label .label-orange} Probability Theory Review -- Bayes' rule, multivariate Gaussian Distribution
+
+Feb 10
+: **Lecture 8**{: .label .label-orange} First Lecture on Classification
+
+Feb 12
+: **Lecture 9**{: .label .label-orange} Regression Approaches to Classification; Logistic Regression (HW1 due)
+
+Feb 17
+: **Lecture 10**{: .label .label-orange} ERM framework / generalizability bias-variance / classification in PyTorch
+
+Feb 19
+: **Lecture 11**{: .label .label-orange} Intro to Deep learning - neural network, backprop, SGD
+
+Feb 24
+: **Lecture 12**{: .label .label-orange} Hands on PyTorch
+
+Feb 26
+: **Lecture 13**{: .label .label-orange} Perceptron & Support Vector Machines (HW2 assigned on Feb 24)
+
+Mar 3
+: **Lecture 14**{: .label .label-orange} Duality and Support Vector Machines
+
+Mar 5
+: **Lecture 15**{: .label .label-orange} Class Projects Discussion
+
+Mar 10
+: **Lecture 16**{: .label .label-orange} Wrap up SVMs, Kernel SVMs
+
+Mar 12
+: **Lecture 17**{: .label .label-orange} Data Clustering (Agglomerative clustering, kmeans)
+
+Mar 17
+: **Spring Break!**{: .label .label-gray} No lecture
+
+Mar 19
+: **Spring Break!**{: .label .label-gray} No lecture
+
+Mar 24
+: **Lecture 18**{: .label .label-orange} Graph Clustering
+
+Mar 26
+: **Lecture 19**{: .label .label-orange} Optimization Methods (Gradient Descent, SGD)
+
+Mar 31
+: **Lecture 20**{: .label .label-orange} Deep Learning Architecturess (MLP, CNN, RNN, LSTM)
+
+Apr 2
+: **Lecture 21**{: .label .label-orange} PCA/Auto-enconders
+
+Apr 7
+: **Lecture 20**{: .label .label-orange} Transformers and Self-supervised Learning Patr-I
+
+Apr 9
+: **Lecture 21**{: .label .label-orange} Transformers and Self-supervised Learning Patr-II
+
+Apr 14
+: **Lecture 22**{: .label .label-orange}
+
+Apr 16
+: **Lecture 23**{: .label .label-orange}
+
+Apr 21
+: **Lecture 24**{: .label .label-orange}
+
+Apr 23
+: **Project Presentations**{: .label .label-purple}
+
+Apr 28
+: **Conclusion and Chat**{: .label .label-orange}
+
 <!-- Sep/10
 : **Lecture 2**{: .label .label-red} [Parameter estimation](/main/Lectures/#lecture-2)
     : [HW0](/main/homeworks/#homework-0) due <br> [HW1](/main/homeworks/#homework-1) out 

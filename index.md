@@ -14,6 +14,7 @@ has_toc: false
 
 <!-- <img src="/assets/images/790-txt.png" width="12%"> -->
 
+<h1 style="margin-bottom:-1em">CS391L</h1>
 <h1 style="margin-bottom:-1em">Machine Learning WB</h1>
 
 <!-- <h1 >(draft site; unofficial)</h1> -->

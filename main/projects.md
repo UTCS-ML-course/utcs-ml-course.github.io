@@ -5,7 +5,8 @@ nav_order: 3
 
 # Final Project
 
-Submit projects to [canvas](https://canvas.utexas.edu).
+*Details to be announced*
+<!-- Submit projects to [canvas](https://canvas.utexas.edu). -->
 
 {% assign limit_value = 2 %}  <!-- Set this to the number of projects to display-->
 {% assign sorted_projects = site.projects | sort: 'due_date' %}
