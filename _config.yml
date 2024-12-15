@@ -20,7 +20,7 @@
 
 title: CS391L <br> Machine Learning
 tagline: CS391L Machine Learning, Spring 2025
-email: CS391L-website@mit.edu
+email: nilesh@cs.utexas.edu
 description: "Graduate Machine Learning WB Course, UTCS, Spring 2025."
 # logo: "/assets/images/790-txt.png"
 
@@ -68,14 +68,14 @@ kramdown:
   # input: GFMKatex # GFMKatex class from sp301415 is in _plugins/server-side-math.rb
   math_engine_opts:
       katex_js: "assets/js/katex.min.js"
-      debug: true
-      verbose: true
+      debug: false
+      verbose: false
       js_run: Node
       katex_opts:
           throwOnError: false
           macros: {} # lots of macros here
 # math: mathjax
-math: katex
+# math: katex
 # markdown: Pandoc
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -109,7 +109,7 @@ collections:
   homeworks:
   lectures:
   projects:
-  review:
+  resources:
 
   # Define a collection named "resource", its documents reside in the "_resource" directory
   # resource:
@@ -145,7 +145,6 @@ defaults:
       parent: Supervised Learning
       layout: page
       katex: true
-      info_cat: true
   - scope:
       path: "reinforcement/"
     values:
@@ -156,6 +155,12 @@ defaults:
     values:
       parent: Unsupervised Learning
       layout: page
+  - scope:
+      path: "resources/"
+    values:
+      parent: Resources
+      layout: page
+      info_cat: true
   - scope:
       path: "info/"
     values:
