@@ -1,35 +1,9 @@
 ---
-title: "Exams"
+title: "Exam"
 nav_order: 4
 ---
 
-# Exams
-
-## Final
-
-The final exam will be Friday 12/20 from 9:00AM - 12:00PM in [Dupont Gym](http://whereis.mit.edu/?go=W31)
-
-You may bring in 2 "cheat sheets", with writing on both sides, written or printed in any manner that doesn't require specialized instruments to read.  Don't worry about cramming formulas: we'll give you ones you are likely to need.
-You will not need a calculator! 
-
-> If you need special arrangements due to a documented disability, please contact lpk@mit.edu right away.
-
-The exam will cover:
-- Lectures 1--23
-- HW 1--7
-- Projects 1--2
-
-The homework and project are the best definition of the scope of the exam. Additional problems below. Note that we don't have practice problems directly relating to Project 2 or some topics noted at the top of the practice material, but that does not imply they will not be covered on the exam.
-
-- [Practice Problems](/assets/exams/final/final_exam_practice.pdf)
-- [Practice Problems with Solutions](/assets/exams/final/final_exam_practice_solutions.pdf)
-
-Here are some additional practice problems.  The hardest ones are probably more difficult than our exam will be and a few are at the margins of material we have covered. Please excuse the formatting---we found pdfs for these problems but don't have the source.
-
-- [Extra Practice Problems](/assets/exams/final/extra_practice_problems_nosols.pdf)
-- [Extra Practice Problems with Solutions](/assets/exams/final/extra_practice_problems_sols.pdf)
-
-
+# Exam
 
 ## Midterm
 

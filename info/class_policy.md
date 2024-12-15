@@ -13,31 +13,23 @@ nav_order: 4
 1. TOC
 {:toc}
 
-## Attendance and section assignments
+## Attendance
 
-We strongly encourage you to be present in the actual lectures (Tuesdays and Thursdays, 2:30 - 4:00 in 32-123). We will however record and post lectures and notes.
-
-The Friday sections will be devoted to working through problems from the homework and answering student questions. They are entirely optional (but very valuable if you are finding the homework or concepts difficult). The registrar will produce an assignment of students to section times.  We encourage you to attend the section time to which you were assigned, for load-balancing purposes, but it's fine to attend any section you wish (or more than one!).
+We strongly encourage you to be present in all lectures (Mondays and Wednesdays, 3:00 - 4:30 PM). We will however record and post lectures and notes.
 
 ## Office hours
 
-Office hours are to be determined.
+Tentative: TWTh 11 AM - 12 PM (CT)
 
 ## Grading, lateness, and extensions 
 
 The grade break-down will be as follows:
-- Homework: 20%
-- Mini-projects: 20%
-- Midterm exam: 25%
-- Final exam: 35%
+- Homework: 40%
+- Final project: 30%
+- Midterm exam: 20%
+- Class Participation: 10%
 
 The grade-assignment cutoffs will be *no higher than*: A - 90%, B - 80%, C - 70%.
-
-Exams:
-- The midterm exam will be on Thursday October 24, 7PM - 9PM. <br>
-A conflict exam will be offered on Friday October 25, 8AM - 10AM.
-- The final exam will be during finals period, as scheduled by the registrar. Please plan to be physically present at MIT for the exam.
-- Exams will cover content from homework *and* projects.
 
 Late homework:
 - Homework turned in late will be subject to the following penalties: 1 day = 5%, 2 days = 10%, 3 days = 20%, 4 or more days = not accepted.
@@ -47,7 +39,7 @@ Late projects:
 - Projects turned in late will be subject to the following penalties: 1 day = 5%, 2 days = 10%, 3 days = 20%, 4 days = 40%, more than 4 days = not accepted. 
 
 Extensions:
-- If you are having health or personal problems, definitely take it easy.  See GradSupport or S-Cubed and ask them to [contact us](mailto:lpk@mit.edu) and we will make arrangements for extensions. 
+- If you are having health or personal problems, definitely take it easy. Email us and we will make arrangements for extensions. 
 - *There will be no further extensions given for other reasons*
 
 ## Collaboration with humans and computers
@@ -60,16 +52,10 @@ understand the concepts.
 
 Ultimately, it is your responsibility to ensure that you personally understand the course material, so be sure you devote concentrated independent effort to solving all the problems.
 
-- You may use AI-assistants, such as co-pilot, for help with any coding assignments.  
+- You should **NOT** use AI-assistants, such as co-pilot, for help with any coding assignments.  
 - You may use large language models to assist with superficial grammatical corrections of your writing, but not to provide or suggest content.
 
 In all cases, you remain personally responsible for the originality, correctness and quality of your submissions. 
-
-## Cross-registration
-
-You are welcome to cross-register for the course! However, we will not make any special extensions or accommodations (beyond those described here, with student support provided via your institution). In particular, take careful note of the exam times and be sure you can attend.
-
-All students need a Kerberos ID to interact with MIT systems (e.g. the Registrar [WebSIS](https://student.mit.edu)). Cross-registered students will receive their Kerberos ID once the registration goes through; however, the process can take a while. We therefore strongly encourage you to cross register early, if possible, to avoid any delayed access. 
 
 ## Support
 

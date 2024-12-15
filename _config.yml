@@ -64,18 +64,18 @@ gh_edit_view_mode: "tree"
 last-modified-at:
   date-format: "%d-%b-%Y"
 kramdown:
-math_engine: katex
-input: GFMKatex # GFMKatex class from sp301415 is in _plugins/server-side-math.rb
-math_engine_opts:
-    katex_js: "assets/js/katex.min.js"
-    debug: true
-    verbose: true
-    js_run: Node
-    katex_opts:
-        throwOnError: false
-        macros: {} # lots of macros here
+  math_engine: katex
+  input: GFMKatex # GFMKatex class from sp301415 is in _plugins/server-side-math.rb
+  math_engine_opts:
+      katex_js: "assets/js/katex.min.js"
+      debug: true
+      verbose: true
+      js_run: Node
+      katex_opts:
+          throwOnError: false
+          macros: {} # lots of macros here
 # math: mathjax
-math: katex
+# math: katex
 # markdown: Pandoc
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -109,6 +109,7 @@ collections:
   homeworks:
   lectures:
   projects:
+  review:
 
   # Define a collection named "resource", its documents reside in the "_resource" directory
   # resource:
@@ -144,6 +145,7 @@ defaults:
       parent: Supervised Learning
       layout: page
       katex: true
+      info_cat: true
   - scope:
       path: "reinforcement/"
     values:

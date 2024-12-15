@@ -1,8 +1,8 @@
 ---
-# layout: page
+layout: page
 title: Review
-nav_order: 2
-# katex: true
+nav_order: 6
+katex: true
 ---
 
 # Background Review

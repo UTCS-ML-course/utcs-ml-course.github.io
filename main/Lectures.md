@@ -1,11 +1,11 @@
 ---
 title: "Lectures"
-nav_order: 2
+nav_order: 1
 ---
 
 # Lectures
 
-Lecture recordings are uploaded to [Panopto](https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b2079bc7-0ca3-4fdf-a3e5-b1d4014c37ee%22).
+<!-- Lecture recordings are uploaded to [Panopto](https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b2079bc7-0ca3-4fdf-a3e5-b1d4014c37ee%22). -->
 
 {% assign limit_value = 24 %}  <!-- Set this to the number of lectures to display-->
 {% assign sorted_lectures = site.lectures | sort: 'id' %}
@@ -15,6 +15,7 @@ Lecture recordings are uploaded to [Panopto](https://mit.hosted.panopto.com/Pano
 ## {{ lecture.title }}
 - {% if lecture.notes %} **[Notes]({{ lecture.notes }})** {% else %} **Notes:** *To be released* {% endif %}
 - {% if lecture.slides %} **[Slides]({{ lecture.slides }})** {% else %} **Slides:** *To be released* {% endif %}
+{% if lecture.recording %} - **[Recording]({{ lecture.recording }})** {% else %} {% endif %}
 {% if lecture.additional_links %} - **Additional Links:** {% for link in lecture.additional_links %} 
     - [{{ link.name }}]({{ link.link }}) {% endfor %} {% endif %}
 {% endfor %}

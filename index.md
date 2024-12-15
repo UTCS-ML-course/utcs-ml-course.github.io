@@ -30,7 +30,7 @@ This graduate course can be more aptly titled Fundamentals of Machine Learning. 
 
 ## Course Components
 
-We will have weekly lectures, written homework, a midterm and a final project (schedule details can be found [here](info/schedule/)). A substantial portion of the grade will depend on homeworks and projects; projects can vary in their theoretical/mathematical content, and in the implementation/programming involved. Projects will be conducted by teams of 2-3 students.
+We will have weekly lectures, programming and written homeworks, a midterm and a final project (schedule details can be found [here](info/schedule/)). A substantial portion of the grade will depend on homeworks and projects; projects can vary in their theoretical/mathematical content, and in the implementation/programming involved. Projects will be conducted by teams of 2-3 students.
 
 ## Course sites
 
