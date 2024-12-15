@@ -11,7 +11,7 @@ Jan 13
 
 Jan 15
 : **Lecture 2**{: .label .label-orange} [Foundations of machine learning](main/Lectures/#lecture-1)
-    : [HW0](main/homeworks/#homework-0) out
+    : [HW0](/gradML/main/homeworks/#homework-0) out
         : [[M1]](info/books/#primary-textbooks) <br> Ch1
 
 <!-- Sep/10
