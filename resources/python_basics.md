@@ -4,8 +4,15 @@ title: Python Basics for ML
 nav_order: 2
 ---
 # Getting started with Python for ML
+{: .no_toc}
 
 This writeup is meant to introduce the basics of using Python and some important Python libraries for machine learning. We will also be discussing some useful tools such as Conda and Jupyter notebooks, as well as basic plotting libraries that will help you visualize the data and results.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Python
 In this course, we'll heavily use Python to materialize ML ideas into code. Python is a powerful and versatile programming language that is widely used in the field of machine learning. It has many libraries and frameworks that make it easy to implement machine learning algorithms and models.
@@ -69,6 +76,9 @@ Jupyter Notebook is a web-based interactive development environment that allows 
 **Creating a new notebook**: To create a new notebook, click on the "New" button and select "Python 3" from the drop-down menu. This will create a new notebook with a single empty cell.
 
 **Writing code**: To write code in a cell, simply click on it and start typing. Press "Shift+Enter" to run the code in the cell and move to the next cell. You can add new cells by clicking on the "Insert" button and selecting "Insert Cell Below".
+
+### Sample Colab Notebook
+<script src="https://gist.github.com/nilesh2797/8874f18faf0637316ea8dc7ccdf1b0c6.js"></script>
 
 ## IDE
 
