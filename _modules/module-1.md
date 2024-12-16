@@ -106,15 +106,15 @@ Apr 9
     : 
 
 Apr 14
-: **Lecture 22**{: .label .label-orange} Life of an ML experiment
+: **Lecture 22**{: .label .label-orange} ML experiment pipeline, huggingface
     : 
 
 Apr 16
-: **Lecture 23**{: .label .label-orange} Accelerators and distributed ML
+: **Lecture 23**{: .label .label-orange} Distributed ML and accelerators
     : 
 
 Apr 21
-: **Lecture 24**{: .label .label-orange} Modern ML: AI studio, lang-chain, promptify, huggingface, NotebookLM
+: **Lecture 24**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, AI studio, lang-chain, promptify, NotebookLM
     : 
 
 Apr 23
