@@ -114,7 +114,7 @@ Apr 16
     : 
 
 Apr 21
-: **Lecture 24**{: .label .label-orange} SlayML: AI studio, lang-chain, promptify, huggingface, NotebookLM
+: **Lecture 24**{: .label .label-orange} Modern ML: AI studio, lang-chain, promptify, huggingface, NotebookLM
     : 
 
 Apr 23
