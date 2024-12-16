@@ -79,7 +79,7 @@ We will skip the details for negative semi-definite ($A\preceq 0$) and negative 
 {: .example}
 Quadratic functions' Convexity Property
 
-<iframe src="/gradML/demos/QuadraticFun.html" width=1000 height=800 async></iframe>
+<iframe src="/demos/QuadraticFun.html" width=1000 height=800 async></iframe>
 
 ##  Optimal Solutions and Uniqueness
 
@@ -128,7 +128,7 @@ $$
 
 ### Jensen's Inequality
 
-<iframe src="/gradML/demos/Jensen.html" width=1000 height=800 async></iframe>
+<iframe src="/demos/Jensen.html" width=1000 height=800 async></iframe>
 
 ###  Max likelihood and Max log likelihood
 

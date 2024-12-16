@@ -10,9 +10,9 @@ Jan 13
 : **Lecture 1**{: .label .label-orange} Course Introduction
 
 Jan 15
-: **Lecture 2**{: .label .label-orange} [Foundations of machine learning](/gradML/main/Lectures/#lecture-1)
-    : [HW0](/gradML/main/homeworks/#homework-0) out
-        : [[M1]](/gradML/info/books/#primary-textbooks) <br> Ch1
+: **Lecture 2**{: .label .label-orange} [Foundations of machine learning](/main/Lectures/#lecture-1)
+    : [HW0](/main/homeworks/#homework-0) out
+        : [[M1]](/info/books/#primary-textbooks) <br> Ch1
 
 Jan 20
 : **MLK Day!**{: .label .label-gray} No lecture
@@ -25,7 +25,7 @@ Jan 27
 
 Jan 29
 : **Lecture 5**{: .label .label-orange} Overfitting, Regularization in Regression (Ridge Regressioin & Lasso) 
-    : [HW1](/gradML/main/homeworks/#homework-1) out
+    : [HW1](/main/homeworks/#homework-1) out
 
 Feb 3
 : **Lecture 6**{: .label .label-orange} Matrix Completion/Factorization for missing value estimation

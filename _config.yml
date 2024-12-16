@@ -24,7 +24,7 @@ email: nilesh@cs.utexas.edu
 description: "Graduate Machine Learning WB Course, UTCS, Spring 2025."
 # logo: "/assets/images/790-txt.png"
 
-baseurl: "/gradML" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://utcs-ml-course.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
