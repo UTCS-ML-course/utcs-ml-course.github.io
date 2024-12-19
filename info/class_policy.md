@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Attendance
 
-We strongly encourage you to be present in all lectures (Mondays and Wednesdays, 3:00 - 4:30 PM). We will however record and post lectures and notes.
+We strongly encourage you to be present in all lectures (Mondays and Wednesdays, 3:30 - 5:00 PM). We will however record and post lectures and notes.
 
 ## Office hours
 
