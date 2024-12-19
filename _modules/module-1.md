@@ -10,69 +10,71 @@ Jan 13
 : **Lecture 1**{: .label .label-orange} Course Introduction
 
 Jan 15
-: **Lecture 2**{: .label .label-orange} [Foundations of machine learning](/main/Lectures/#lecture-1)
-    : [HW0](/main/homeworks/#homework-0) out
-        : [[M1]](/info/books/#primary-textbooks) <br> Ch1
+: **Lecture 2**{: .label .label-orange} [Linear Algebra Review](/assets/lectures/LinearAlgebraReviewNotes.pdf)
+    : [HW0](/main/homeworks/#homework-0) <br> out
+        <!-- : [[M1]](/info/books/#primary-textbooks) <br> Ch1 -->
 
 Jan 20
 : **MLK Day!**{: .label .label-gray} No lecture
 
 Jan 22
-: **Lecture 3**{: .label .label-orange} Linear Algebra Review
+: **Lecture 3**{: .label .label-orange} SVD and Regression
+    : 
 
 Jan 27
-: **Lecture 4**{: .label .label-orange} SVD and Regression
+: **Lecture 4**{: .label .label-orange} Overfitting, Regularization in Regression (Ridge Regression & Lasso) 
+    : 
 
 Jan 29
-: **Lecture 5**{: .label .label-orange} Overfitting, Regularization in Regression (Ridge Regressioin & Lasso) 
+: **Lecture 5**{: .label .label-orange} Matrix Completion / Factorization for missing value estimation
     : [HW1](/main/homeworks/#homework-1) out
 
 Feb 3
-: **Lecture 6**{: .label .label-orange} Matrix Completion / Factorization for missing value estimation
+: **Lecture 6**{: .label .label-orange} Probability Theory Review
     : 
 
 Feb 5
-: **Lecture 7**{: .label .label-orange} Probability Theory Review -- Bayes' rule, multivariate Gaussian Distribution
+: **Lecture 7**{: .label .label-orange} First Lecture on Classification
     : 
 
 Feb 10
-: **Lecture 8**{: .label .label-orange} First Lecture on Classification
-    : 
+: **Lecture 8**{: .label .label-orange} Regression Approaches to Classification; Logistic Regression
+    : [HW1]() Due
 
 Feb 12
-: **Lecture 9**{: .label .label-orange} Regression Approaches to Classification; Logistic Regression
-    : [HW1]() Due
+: **Lecture 9**{: .label .label-orange} ERM framework / generalizability bias-variance / classification in PyTorch
+    : 
  
 Feb 17
-: **Lecture 10**{: .label .label-orange} ERM framework / generalizability bias-variance / classification in PyTorch
-    : 
+: **Lecture 10**{: .label .label-orange} Intro to Deep learning - neural network, backprop, SGD
+    : [HW2]() Out
 
 Feb 19
-: **Lecture 11**{: .label .label-orange} Intro to Deep learning - neural network, backprop, SGD
+: **Lecture 11**{: .label .label-orange} Hands on PyTorch, ML experiment pipeline
     : 
 
 Feb 24
-: **Lecture 12**{: .label .label-orange} Hands on PyTorch / JAX
+: **Lecture 12**{: .label .label-orange} Perceptron & Support Vector Machines
     : 
 
 Feb 26
-: **Lecture 13**{: .label .label-orange} Perceptron & Support Vector Machines
-    : [HW2]() Out
+: **Lecture 13**{: .label .label-orange} Duality and Support Vector Machines
+    : [HW2]() Due
 
 Mar 3
-: **Lecture 14**{: .label .label-orange} Duality and Support Vector Machines
+: **Lecture 14**{: .label .label-orange} Wrap up SVMs, Kernel SVMs
     : 
 
 Mar 5
-: **Lecture 15**{: .label .label-orange} Class Projects Discussion
+: **Lecture 17**{: .label .label-orange} Data Clustering (Agglomerative clustering, kmeans)
     : 
 
 Mar 10
-: **Lecture 16**{: .label .label-orange} Wrap up SVMs, Kernel SVMs
+: **Lecture 15**{: .label .label-orange} Class Projects / Midterm Discussion
     : 
 
 Mar 12
-: **Lecture 17**{: .label .label-orange} Data Clustering (Agglomerative clustering, kmeans)
+: **Midterm**{: .label .label-yellow} 
     : 
 
 Mar 17
@@ -82,11 +84,11 @@ Mar 19
 : **Spring Break!**{: .label .label-gray} No lecture
 
 Mar 24
-: **Lecture 18**{: .label .label-orange} Reinforcement Learning (Guest?)
+: **Lecture 18**{: .label .label-orange} PCA/Auto-enconders
     : 
 
 Mar 26
-: **Lecture 19**{: .label .label-orange} Optimization Methods (Gradient Descent, SGD) (Guest?)
+: **Lecture 19**{: .label .label-orange} Optimization Methods (Gradient Descent, SGD, Momentum, Adam) (Guest?)
     : 
 
 Mar 31
@@ -94,11 +96,11 @@ Mar 31
     : 
 
 Apr 2
-: **Lecture 21**{: .label .label-orange} PCA/Auto-enconders
+: **Lecture 21**{: .label .label-orange} Transformers and Self-supervised Learning
     : 
 
 Apr 7
-: **Lecture 20**{: .label .label-orange} Transformers and Self-supervised Learning
+: **Lecture 20**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, AI studio, lang-chain, PEFT
     : 
 
 Apr 9
@@ -106,7 +108,7 @@ Apr 9
     : 
 
 Apr 14
-: **Lecture 22**{: .label .label-orange} ML experiment pipeline, huggingface
+: **Lecture 22**{: .label .label-orange} Reinforcement Learning (Guest?)
     : 
 
 Apr 16
@@ -114,7 +116,7 @@ Apr 16
     : 
 
 Apr 21
-: **Lecture 24**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, AI studio, lang-chain, promptify, NotebookLM
+: **Lecture 24**{: .label .label-orange} 
     : 
 
 Apr 23
