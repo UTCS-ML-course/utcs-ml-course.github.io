@@ -15,7 +15,7 @@ Jan 15
         <!-- : [[M1]](/info/books/#primary-textbooks) <br> Ch1 -->
 
 Jan 20
-: **MLK Day!**{: .label .label-gray} No lecture MLK Day
+: **MLK Day!**{: .label .label-gray} No lecture
 
 Jan 22
 : **Lecture 3**{: .label .label-orange} SVD and Regression
