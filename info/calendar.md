@@ -7,7 +7,7 @@ nav_order: 2
 # Course Calendar
 
 Some quick notes:
-- TA office hours will be posted soon.
+- Office hours are tentative at the moment, may change in future
 - In a nominal week, we have two lectures (each covers different material)
 
 <!-- {% for schedule in site.schedules %}
