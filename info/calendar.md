@@ -14,4 +14,4 @@ Some quick notes:
 {{ schedule }}
 {% endfor %} -->
 
-<iframe src="https://calendar.google.com/calendar/embed?src=3f860a0d1f5ae73fd50ecc3474aabc74527155bfb88ca318ffae7859dfc8e1e4%40group.calendar.google.com&ctz=Asia%2FKolkata" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&showPrint=0&mode=WEEK&title=UT%20Austin%20Spring%2025%20CS391L%20Course%20Calendar&src=M2Y4NjBhMGQxZjVhZTczZmQ1MGVjYzM0NzRhYWJjNzQ1MjcxNTViZmI4OGNhMzE4ZmZhZTc4NTlkZmM4ZTFlNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
