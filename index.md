@@ -14,29 +14,53 @@ has_toc: false
 
 <!-- <img src="/assets/images/790-txt.png" width="12%"> -->
 
-<h1 style="margin-bottom:-1em">CS391L</h1>
+<h1 style="margin-bottom:-1em">CS391L (Spring 25)</h1>
 <h1 style="margin-bottom:-1em">Machine Learning WB</h1>
 
 <!-- <h1 >(draft site; unofficial)</h1> -->
-
 </center>
 
-<br>
+<br><br>
+
+**Lectures**: M/W 3:30-5:00PM (CT) ([course calendar](/info/calendar/#course-calendar)) <br>
+**UT Unique No.**: 51360 <br>
+
+**Instructor**: [Prof. Inderjit Dhillon](/info/staff/#instructor) <br>
+**Teaching Assistant**: [Nilesh Gupta](/info/staff/#teaching-assistant) <br>
+
 
 ## Course Overview
 
-This graduate course can be more aptly titled Fundamentals of Machine Learning. It is a gateway course to more advanced and specialized graduates courses on the topic, for example, courses that specialize in deep learning. To enjoy the course you should have a solid background in linear algebra, probability and statistics, and multivariate calculus. Refreshers on these topics will be done in class but they will necessarily be brief. If you are weak in any of these, you may find the course challenging. Topics covered include supervised methods (regression, classification), unsupervised methods (clustering, principal components analysis, non-linear dimensionality reduction), and self-supervised learning. The technical tools used in the course will draw from linear algebra, probability, multivariate statistics and optimization.
+This graduate course can be more aptly titled Fundamentals of Machine Learning. It is a gateway course to more advanced and specialized graduates courses on the topic, for example, courses that specialize in deep learning. To enjoy the course you should have a solid background in linear algebra, probability and statistics, and multivariate calculus. Refreshers on these topics will be done in class but they will necessarily be brief. If you are weak in any of these, you may find the course challenging. Topics covered include supervised methods (regression, classification), unsupervised methods (clustering, principal components analysis, non-linear dimensionality reduction), and self-supervised learning. The technical tools used in the course will draw from linear algebra, probability, multivariate statistics and optimization. Check reference books [here](/resources/books/#textbooks).
 
 **Pre-requisites**: Basics (undergraduate level) of linear algebra (M341 or equivalent).
 
-## Course Components
-
-We will have weekly lectures, programming and written homeworks, a midterm and a final project (schedule details can be found [here](/info/schedule/)). A substantial portion of the grade will depend on homeworks and projects; projects can vary in their theoretical/mathematical content, and in the implementation/programming involved. Projects will be conducted by teams of 2-3 students.
-
 ## Course sites
-
 <ul>
-<li> For technical questions: Please read/post publicly on <a href="https://piazza.com/class/lzy7kgi6f2n4fs/"><b>Piazza</b></a></li>
-<li> For personal or administrative questions: Please post privately on <a href="https://piazza.com/class/lzy7kgi6f2n4fs/"><b>Piazza</b></a></li>
-<li> For grades on submitted work: Please check <a href="https://canvas.mit.edu/courses/28217"><b>Canvas</b></a></li>
+<li> <a href="https://utcs-ml-course.github.io/"><b>Course Webpage</b></a>: for all the important information in one place </li>
+<li> <a href="https://edstem.org/us/courses/71677"><b>Ed Discussion</b></a>: read/post *publicly* for technical questions and announcements, post *privately* for personal or administrative questions</li>
+<li> <a href="https://utexas.instructure.com/courses/1414723"><b>Canvas</b></a>: for submission, grades on submitted work, etc </li>
 </ul>
+
+## Grading
+- **40%** Homeworks
+- **30%** Final Project
+- **25%** Midterm (In-person)
+- **5%** Class Participation
+
+
+## Rough List of Topics Covered
+
+See full course schedule [here](/info/schedule/).
+
+- Least Squares Regression
+- Review of Linear Algebra and Probability
+- Matrix Completion
+- Classification (Perceptron, SVM)
+- Optimization (Gradient Descent, SGD, Coordinate Descent)
+- Neural Networks
+- Clustering
+- Graph Analysis
+- Kernel Methods
+- Deep Learning Architectures (MLP, RNN, LSTM, Transformers)
+- Modern ML

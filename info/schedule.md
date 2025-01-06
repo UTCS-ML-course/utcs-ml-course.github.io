@@ -9,7 +9,7 @@ nav_order: 0
 # Course Schedule
 
 {: .warning}
-Topics are subject to update.
+Lecture topics are tentative and subject to change.
 
 {% for module in site.modules %}
 {{ module }}

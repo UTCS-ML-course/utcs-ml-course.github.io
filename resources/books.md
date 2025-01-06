@@ -6,12 +6,10 @@ nav_order: 0
 
 ---
 
-# Primary textbooks
+# Textbooks
 - [M1] [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html), Kevin Murphy, MIT Press, 2022.
 - [M2] [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html), Kevin Murphy, MIT Press, 2023.
-
-# Other recommended reading
-
+- [DL] [Deep Learning](https://www.deeplearningbook.org/), Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016.
 - [B] [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Bishop; Springer, 2006.
 - [B2] [Deep Learning Foundations and Concepts](https://www.bishopbook.com/), Bishop; Bishop, 2024.
 - [HTF] [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/), Hastie, Tibshirani, and Friedman; Springer, 2009.
