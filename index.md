@@ -43,7 +43,7 @@ This graduate course can be more aptly titled Fundamentals of Machine Learning. 
 </ul>
 
 ## Grading
-- **40%** Homeworks
+- **40% (4x10)** Homeworks
 - **30%** Final Project
 - **25%** Midterm (In-person)
 - **5%** Class Participation

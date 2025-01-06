@@ -8,6 +8,9 @@ katex: true
 # Background Review
 {: .no_toc}
 
+{: .warning .no_toc}
+This material has been largely borrowed from [MIT GradML course](https://gradml.mit.edu/).
+
 ## Table of contents
 {: .no_toc .text-delta }
 
