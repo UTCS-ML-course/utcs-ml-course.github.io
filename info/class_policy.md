@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Attendance
 
-We strongly encourage you to be present in all lectures (Mondays and Wednesdays, 3:30 - 5:00 PM). We will however record and post lectures and notes. Class participation points will be awarded based on class attendance and interaction during class hours. 
+We strongly encourage you to be present in all lectures (Mondays and Wednesdays, 3:30 - 5:00 PM). We will however record and post lectures and notes. Class participation points will be awarded based on class attendance and interaction during class hours (includes filling out class surveys). 
 
 ## Office hours
 
