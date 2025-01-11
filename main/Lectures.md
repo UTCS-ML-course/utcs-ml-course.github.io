@@ -15,7 +15,7 @@ nav_order: 1
 ## {{ lecture.title }}
 - {% if lecture.notes %} **[Notes]({{ lecture.notes }})** {% else %} **Notes:** *To be released* {% endif %}
 - {% if lecture.slides %} **[Slides]({{ lecture.slides }})** {% else %} **Slides:** *To be released* {% endif %}
-{% if lecture.recording %} - **[Recording]({{ lecture.recording }})** {% else %} {% endif %}
+- {% if lecture.recording %} **[Recording]({{ lecture.recording }})** {% else %} **Recording** *To be released* {% endif %}
 {% if lecture.additional_links %} - **Additional Links:** {% for link in lecture.additional_links %} 
     - [{{ link.name }}]({{ link.link }}) {% endfor %} {% endif %}
 {% endfor %}

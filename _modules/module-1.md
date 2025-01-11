@@ -8,10 +8,11 @@ title: Class schedule
 
 Jan 13
 : **Lecture 0**{: .label .label-orange} Course Introduction
-	: [HW0](/main/homeworks/#homework-0) <br> out
+	: [HW0](/main/homeworks/#homework-0-survey) <br> out
+
 Jan 15
 : **Lecture 1**{: .label .label-orange} Introduction to Least Squares Regression
-    : [HW0](/main/homeworks/#homework-0) <br> due
+    : [HW0](/main/homeworks/#homework-0-survey) <br> due
 
 Jan 20
 : **MLK Day!**{: .label .label-gray} No lecture
@@ -123,6 +124,9 @@ Apr 23
 
 Apr 28
 : **Project Presentations**{: .label .label-purple}
+
+May 3
+: **Project Report Due**{: .label .label-purple}
 
 <!-- Sep/10
 : **Lecture 2**{: .label .label-red} [Parameter estimation](/main/Lectures/#lecture-2)

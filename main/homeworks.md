@@ -5,7 +5,7 @@ nav_order: 2
 
 # Homeworks
 
-Submit homeworks to [canvas](https://canvas.utexas.edu/).
+<!-- Submit homeworks to [canvas](https://canvas.utexas.edu/). -->
 
 {% assign limit_value = 8 %}  <!-- Set this to the number of hws to display-->
 {% assign sorted_homeworks = site.homeworks | sort: 'due_date' %}
@@ -25,8 +25,9 @@ Submit homeworks to [canvas](https://canvas.utexas.edu/).
 
 - **Release Date:** {{ hw.release_date | date: "%B %d, %Y" }}
 - **Due Date:** {{ hw.due_date | date: "%B %d, %Y" }}
-- {% if hw.pdf %} **[PDF]({{ hw.pdf }})** {% else %} **PDF:** *To be released* {% endif %}
-- {% if hw.sln %} **[Solution]({{ hw.sln }})** {% else %} **Solution:** *To be released* {% endif %}
+{% if hw.instructions %} - **Instructions:** *{{ hw.instructions }}* {% else %} <!--**PDF:** *To be released*--> {% endif %}
+{% if hw.pdf %} - **[PDF]({{ hw.pdf }})** {% else %} <!--- **PDF:** *To be released*--> {% endif %}
+{% if hw.sln %} - **[Solution]({{ hw.sln }})** {% else %} <!--- **Solution:** *To be released*--> {% endif %}
 {% if hw.additional_links %} - **Additional Links:** {% for link in hw.additional_links %} 
     - [{{ link.name }}]({{ link.link }}) {% endfor %} {% endif %}
 
