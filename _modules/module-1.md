@@ -8,22 +8,21 @@ title: Class schedule
 
 Jan 13
 : **Lecture 0**{: .label .label-orange} Course Introduction
-
+	: [HW0](/main/homeworks/#homework-0) <br> out
 Jan 15
 : **Lecture 1**{: .label .label-orange} Introduction to Least Squares Regression
-    : 
+    : [HW0](/main/homeworks/#homework-0) <br> due
 
 Jan 20
 : **MLK Day!**{: .label .label-gray} No lecture
 
 Jan 22
 : **Lecture 2**{: .label .label-orange} [Linear Algebra Review](/assets/lectures/LinearAlgebraReviewNotes.pdf)
-    : [HW0](/main/homeworks/#homework-0) <br> out
         <!-- : [[M1]](/info/books/#primary-textbooks) <br> Ch1 -->
 
 Jan 27
 : **Lecture 3**{: .label .label-orange} SVD and Regression
-    : [HW0](/main/homeworks/#homework-0) <br> due
+    :
 
 Jan 29
 : **Lecture 4**{: .label .label-orange} Overfitting, Regularization in Regression (Ridge Regression & Lasso) 
