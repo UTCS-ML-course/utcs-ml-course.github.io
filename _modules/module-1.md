@@ -23,7 +23,7 @@ Jan 22
 
 Jan 27
 : **Lecture 3**{: .label .label-orange} SVD and Regression
-    :
+    : 
 
 Jan 29
 : **Lecture 4**{: .label .label-orange} Overfitting, Regularization in Regression (Ridge Regression & Lasso) 
