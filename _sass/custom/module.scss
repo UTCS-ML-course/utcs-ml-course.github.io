@@ -88,7 +88,7 @@
 
       dl {
         display: grid; // Use grid to control layout of nested `dl` elements
-        grid-template-columns: 1fr 1fr; // Set the structure of the nested columns
+        grid-template-columns: 4fr 1fr; // Set the structure of the nested columns
         align-items: center; // Vertically center nested content
 
         dt {
