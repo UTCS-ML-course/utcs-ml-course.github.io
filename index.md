@@ -63,4 +63,4 @@ See full course schedule [here](/info/schedule/).
 - Graph Analysis
 - Kernel Methods
 - Deep Learning Architectures (MLP, RNN, LSTM, Transformers)
-- Modern ML
+- Other Topics in Deep Learning
