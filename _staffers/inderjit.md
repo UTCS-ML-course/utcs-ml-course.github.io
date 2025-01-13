@@ -5,6 +5,6 @@ role: Instructor
 website: https://www.cs.utexas.edu/~inderjit
 photo: inderjit.webp
 pronouns: He/Him
-office-hours: Wed 9:30AM - 10:30AM (CT) and by appointment
+office-hours: Mon 5:00PM - 6:00PM (CT) and by appointment
 ---
 
