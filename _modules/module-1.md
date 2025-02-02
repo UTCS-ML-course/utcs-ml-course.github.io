@@ -10,22 +10,22 @@ Jan 13
 	: [HW0](/main/homeworks/#homework-0-survey) <br> out
 
 Jan 15
-: **Lecture 1**{: .label .label-orange} Introduction to Least Squares Regression
+: **Lecture 1**{: .label .label-orange} [Introduction to Least Squares Regression](/main/Lectures/#lecture-1)
     : [HW0](/main/homeworks/#homework-0-survey) <br> due
 
 Jan 20
 : **MLK Day!**{: .label .label-gray} No lecture
 
 Jan 22
-: **Lecture 2**{: .label .label-orange} [Linear Algebra Review](/assets/lectures/LinearAlgebraReviewNotes.pdf)
+: **Lecture 2**{: .label .label-orange} [Linear Algebra Review](/main/Lectures/#lecture-2)
         <!-- : [[M1]](/info/books/#primary-textbooks) <br> Ch1 -->
 
 Jan 27
-: **Lecture 3**{: .label .label-orange} SVD and Regression
+: **Lecture 3**{: .label .label-orange} [SVD and Regression](/main/Lectures/#lecture-3)
     : 
 
 Jan 29
-: **Lecture 4**{: .label .label-orange} Overfitting, Regularization in Regression (Ridge Regression & Lasso) 
+: **Lecture 4**{: .label .label-orange} [Overfitting, Regularization in Regression (Ridge Regression & Lasso)](/main/Lectures/#lecture-4) 
     : 
 
 Feb 3
@@ -111,11 +111,11 @@ Apr 14
     : 
 
 Apr 16
-: **Lecture 23**{: .label .label-orange} TBD
+: **Lecture 23**{: .label .label-orange} *Reinforcement Learning (Tentative)*
     : 
 
 Apr 21
-: **Lecture 24**{: .label .label-orange} TBD
+: **Lecture 24**{: .label .label-orange} *Structured prediction (Tentative)*
     : [HW4](/main/homeworks/#homework-4) <br> due
 
 Apr 23

@@ -22,7 +22,7 @@ nav_order: 2
 
 {% for hw in filtered_homeworks %}
 ## {{ hw.title }}
-
+{% if hw.topic %} - **Topic:** {{ hw.topic }} {% else %} <!--**PDF:** *To be released*--> {% endif %}
 - **Release Date:** {{ hw.release_date | date: "%B %d, %Y" }}
 - **Due Date:** {{ hw.due_date | date: "%B %d, %Y" }}
 {% if hw.instructions %} - **Instructions:** *{{ hw.instructions }}* {% else %} <!--**PDF:** *To be released*--> {% endif %}
