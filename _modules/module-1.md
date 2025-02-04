@@ -52,7 +52,7 @@ Feb 17
     : 
 
 Feb 19
-: **Lecture 10**{: .label .label-orange} Hands on classification with PyTorch, ML experiment pipeline
+: **Lecture 10**{: .label .label-orange} Hands on classification in PyTorch, ML experiment pipeline
     : [HW2](/main/homeworks/#homework-2) <br> out
 
 Feb 24
