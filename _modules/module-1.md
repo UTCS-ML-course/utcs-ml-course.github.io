@@ -29,7 +29,7 @@ Jan 29
     : 
 
 Feb 3
-: **Lecture 5**{: .label .label-orange} Matrix Completion / Factorization for missing value estimation
+: **Lecture 5**{: .label .label-orange} [Matrix Completion / Factorization for missing value estimation](/main/Lectures/#lecture-5)
     : [HW1](/main/homeworks/#homework-1) <br> out
 
 Feb 5
@@ -42,30 +42,33 @@ Feb 10
 
 Feb 12
 : **Lecture 8**{: .label .label-orange} Regression Approaches to Classification; Logistic Regression
+
+Feb 14
+: **Deadline**{: .label .label-gray}
     : [HW1](/main/homeworks/#homework-1) <br> due
  
 Feb 17
-: **Lecture 9**{: .label .label-orange} ERM framework / generalizability bias-variance / classification in PyTorch
+: **Lecture 9**{: .label .label-orange} Intro to Deep learning - neural network, backprop, SGD
     : 
 
 Feb 19
-: **Lecture 10**{: .label .label-orange} Intro to Deep learning - neural network, backprop, SGD
+: **Lecture 10**{: .label .label-orange} Hands on classification wiht PyTorch, ML experiment pipeline
     : [HW2](/main/homeworks/#homework-2) <br> out
 
 Feb 24
-: **Lecture 11**{: .label .label-orange} Hands on PyTorch, ML experiment pipeline
+: **Lecture 11**{: .label .label-orange} Perceptron & Support Vector Machines
     : 
 
 Feb 26
-: **Lecture 12**{: .label .label-orange} Perceptron & Support Vector Machines
+: **Lecture 12**{: .label .label-orange} Duality and Support Vector Machines
     : 
 
 Mar 3
-: **Lecture 13**{: .label .label-orange} Duality and Support Vector Machines
+: **Lecture 13**{: .label .label-orange} Non Linear SVMs
     : [HW2](/main/homeworks/#homework-2) <br> due
 
 Mar 5
-: **Lecture 14**{: .label .label-orange} Wrap up SVMs, Kernel SVMs
+: **Lecture 14**{: .label .label-orange} ERM framework / generalizability bias-variance
     : 
 
 Mar 10
