@@ -25,15 +25,15 @@ Jan 27
     : 
 
 Jan 29
-: **Lecture 4**{: .label .label-orange} [Overfitting, Regularization in Regression (Ridge Regression & Lasso)](/main/Lectures/#lecture-4) 
+: **Lecture 4**{: .label .label-orange} [Regularization in Regression](/main/Lectures/#lecture-4) 
     : 
 
 Feb 3
-: **Lecture 5**{: .label .label-orange} [Matrix Completion / Factorization for missing value estimation](/main/Lectures/#lecture-5)
+: **Lecture 5**{: .label .label-orange} [Matrix Factorization for Recommendation](/main/Lectures/#lecture-5)
     : [HW1](/main/homeworks/#homework-1) <br> out
 
 Feb 5
-: **Lecture 6**{: .label .label-orange} Probability Theory Review
+: **Lecture 6**{: .label .label-orange} [Probability Theory Review](/main/Lectures/#lecture-6)
     : 
 
 Feb 10
