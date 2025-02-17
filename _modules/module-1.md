@@ -53,11 +53,11 @@ Feb 17
 
 Feb 19
 : **Lecture 10**{: .label .label-orange} Hands on classification in PyTorch, ML experiment pipeline
-    : [HW2](/main/homeworks/#homework-2) <br> out
+    :
 
 Feb 24
 : **Lecture 11**{: .label .label-orange} Perceptron & Support Vector Machines
-    : 
+    : [HW2](/main/homeworks/#homework-2) <br> out
 
 Feb 26
 : **Lecture 12**{: .label .label-orange} Duality and Support Vector Machines
@@ -65,11 +65,15 @@ Feb 26
 
 Mar 3
 : **Lecture 13**{: .label .label-orange} Non Linear SVMs
-    : [HW2](/main/homeworks/#homework-2) <br> due
+    :
 
 Mar 5
 : **Lecture 14**{: .label .label-orange} ERM framework / generalizability bias-variance
     : 
+
+Mar 7
+: **Deadline**{: .label .label-gray}
+    : [HW2](/main/homeworks/#homework-2) <br> due
 
 Mar 10
 : **Lecture 15**{: .label .label-orange} Data Clustering (Agglomerative clustering, kmeans)
