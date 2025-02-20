@@ -49,8 +49,7 @@ nav_order: 3
 - Self-driving Cars
 - Game Playing (AlphaGo)
 - Chatbots (ChatGPT, Gemini)
-- Text-to-Image/Video Generators (DALL-E2, Imagen)**
-
+- Text-to-Image/Video Generators (DALL-E2, Imagen)
 ---
 
 ## 2. Neural Networks
