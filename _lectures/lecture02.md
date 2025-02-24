@@ -8,5 +8,6 @@ recording: "https://youtu.be/jhNbXUegMag?si=tCXILxY11gczHBwI"
 additional_links:
     - name: Typed notes
       link: "/assets/lectures/LinearAlgebraReviewNotes.pdf"
-    
+    - name: Gill Strang Linear Algebra Lecture Notes
+      link: "https://math.mit.edu/~gs/LectureNotes/"
 ---
