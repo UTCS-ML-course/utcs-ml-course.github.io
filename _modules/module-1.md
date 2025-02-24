@@ -37,30 +37,31 @@ Feb 5
     : 
 
 Feb 10
-: **Lecture 7**{: .label .label-orange} First Lecture on Classification
+: **Lecture 7**{: .label .label-orange} [Introduction to Classification](/main/Lectures/#lecture-7)
     : 
 
 Feb 12
-: **Lecture 8**{: .label .label-orange} Regression Approaches to Classification; Logistic Regression
+: **Lecture 8**{: .label .label-orange} [Logistic Regression](/main/Lectures/#lecture-8)
+    : 
 
 Feb 14
 : **Deadline**{: .label .label-gray}
     : [HW1](/main/homeworks/#homework-1) <br> due
  
 Feb 17
-: **Lecture 9**{: .label .label-orange} Intro to Deep learning - neural network, backprop, SGD
+: **Lecture 9**{: .label .label-orange} [Introduction to Deep learning](/main/Lectures/#lecture-9)
     : 
 
 Feb 19
-: **Lecture 10**{: .label .label-orange} Hands on classification in PyTorch, ML experiment pipeline
-    :
+: **Lecture 10**{: .label .label-orange} [Perceptron & Support Vector Machines](/main/Lectures/#lecture-10)
+    : 
 
 Feb 24
-: **Lecture 11**{: .label .label-orange} Perceptron & Support Vector Machines
+: **Lecture 11**{: .label .label-orange} [Duality & Support Vector Machines](/main/Lectures/#lecture-11)
     : [HW2](/main/homeworks/#homework-2) <br> out
 
 Feb 26
-: **Lecture 12**{: .label .label-orange} Duality and Support Vector Machines
+: **Lecture 12**{: .label .label-orange} Life of an ML Experiment
     : 
 
 Mar 3
