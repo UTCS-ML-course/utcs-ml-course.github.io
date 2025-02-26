@@ -61,7 +61,7 @@ Feb 24
     : [HW2](/main/homeworks/#homework-2) <br> out
 
 Feb 26
-: **Lecture 12**{: .label .label-orange} Life of an ML Experiment
+: **Lecture 12**{: .label .label-orange} [Hands on Machine Learning](/main/Lectures/#lecture-12)
     : 
 
 Mar 3
@@ -111,7 +111,7 @@ Apr 7
     : 
 
 Apr 9
-: **Lecture 21**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, AI studio, lang-chain, PEFT (Guest)
+: **Lecture 21**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT (Guest)
     : [HW4](/main/homeworks/#homework-4) <br> out
 
 Apr 14
@@ -123,7 +123,7 @@ Apr 16
     : 
 
 Apr 21
-: **Lecture 24**{: .label .label-orange} *Structured prediction (Tentative)*
+: **Lecture 24**{: .label .label-orange} *Diffusion (Tentative)*
     : [HW4](/main/homeworks/#homework-4) <br> due
 
 Apr 23
