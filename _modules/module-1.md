@@ -69,7 +69,7 @@ Mar 3
     : 
 
 Mar 5
-: **Lecture 14**{: .label .label-orange} ERM framework / generalizability bias-variance
+: **Lecture 14**{: .label .label-orange} Data Clustering (Agglomerative clustering, kmeans)
     : 
 
 Mar 7
@@ -77,7 +77,7 @@ Mar 7
     : [HW2](/main/homeworks/#homework-2) <br> due
 
 Mar 10
-: **Lecture 15**{: .label .label-orange} Data Clustering (Agglomerative clustering, kmeans)
+: No lecture
     : 
 
 Mar 12
