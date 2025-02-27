@@ -111,19 +111,19 @@ Apr 7
     : 
 
 Apr 9
-: **Lecture 21**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT (Guest)
+: **Lecture 21 (Guest)**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT ([Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/))
     : [HW4](/main/homeworks/#homework-4) <br> out
 
 Apr 14
-: **Lecture 22**{: .label .label-orange} Distributed ML and accelerators (Guest)
+: **Lecture 22 (Guest)**{: .label .label-orange} Distributed ML and accelerators ([Rohan Anil](https://scholar.google.com/citations?user=m2qHgbwAAAAJ&hl=en))
     : 
 
 Apr 16
-: **Lecture 23**{: .label .label-orange} *Reinforcement Learning (Tentative)*
+: **Lecture 23 (Guest)**{: .label .label-orange} Diffusion Models ([Chitwan Saharia](https://scholar.google.co.in/citations?user=JApued4AAAAJ&hl=en))
     : 
 
 Apr 21
-: **Lecture 24**{: .label .label-orange} *Diffusion (Tentative)*
+: **Lecture 24 (Guest)**{: .label .label-orange}  *Reinforcement Learning (Tentative)*
     : [HW4](/main/homeworks/#homework-4) <br> due
 
 Apr 23
