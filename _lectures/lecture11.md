@@ -4,5 +4,5 @@ topic: SVMs and Duality
 id: "11"
 notes: "/assets/lectures/SVMs and Duality Feb 24, 2025.pdf"
 # slides: ""
-# recording: "https://youtu.be/QYQ5NpllC-0?si=a8XOkxfYa6-2kpbX"
+recording: "https://youtu.be/0wxWlT8eo5U?si=ghyi9AQwDaa3eOXc"
 ---
