@@ -87,6 +87,8 @@ math: katex
 # their entries' file path in the `include:` list.
 #
 color_scheme: utcs
+include:
+  - resources/
 exclude:
   - .sass-cache/
   - .jekyll-cache/
