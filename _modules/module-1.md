@@ -65,11 +65,11 @@ Feb 26
     : 
 
 Mar 3
-: **Lecture 13**{: .label .label-orange} Non Linear SVMs
+: **Lecture 13**{: .label .label-orange} [Non Linear SVMs](/main/Lectures/#lecture-13)
     : 
 
 Mar 5
-: **Lecture 14**{: .label .label-orange} Data Clustering (Agglomerative clustering, kmeans)
+: **Lecture 14**{: .label .label-orange} [Clustering](/main/Lectures/#lecture-14)
     : 
 
 Mar 7
