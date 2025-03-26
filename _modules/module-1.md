@@ -95,15 +95,15 @@ Mar 24
     : [HW3](/main/homeworks/#homework-3) <br> out
 
 Mar 26
-: **Lecture 17**{: .label .label-orange} PCA/Auto-enconders
+: **Lecture 17**{: .label .label-orange} Optimization Methods (Gradient Descent, SGD, Momentum, Adam)
     : 
 
 Mar 31
-: **Lecture 18**{: .label .label-orange} Optimization Methods (Gradient Descent, SGD, Momentum, Adam) (Guest)
+: **Lecture 18**{: .label .label-orange} Deep Learning Architectures (MLP, CNN, RNN, LSTM)
     : 
 
 Apr 2
-: **Lecture 19**{: .label .label-orange} Deep Learning Architecturess (MLP, CNN, RNN, LSTM)
+: **Lecture 19**{: .label .label-orange} Regularization in Deep Learning (Dropout, BatchNorm, LayerNorm)
     : [HW3](/main/homeworks/#homework-3) <br> due
  
 Apr 7
