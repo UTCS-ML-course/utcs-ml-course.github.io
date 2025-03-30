@@ -91,39 +91,39 @@ Mar 19
 : **Spring Break!**{: .label .label-gray} No lecture
 
 Mar 24
-: **Lecture 16**{: .label .label-orange} Class Projects Discussion
+: **Lecture 15**{: .label .label-orange} [Class Projects Discussion](/main/Lectures/#lecture-15)
     : [HW3](/main/homeworks/#homework-3) <br> out
 
 Mar 26
-: **Lecture 17**{: .label .label-orange} Optimization Methods (Gradient Descent, SGD, Momentum, Adam)
+: **Lecture 16**{: .label .label-orange} [Optimization Methods (Gradient Descent, SGD, Momentum, Adam)](/main/Lectures/#lecture-16)
     : 
 
 Mar 31
-: **Lecture 18**{: .label .label-orange} Deep Learning Architectures (MLP, CNN, RNN, LSTM)
+: **Lecture 17**{: .label .label-orange} Deep Learning Architectures (MLP, CNN, RNN, LSTM)
     : 
 
 Apr 2
-: **Lecture 19**{: .label .label-orange} Regularization in Deep Learning (Dropout, BatchNorm, LayerNorm)
+: **Lecture 18**{: .label .label-orange} Regularization in Deep Learning (Dropout, BatchNorm, LayerNorm)
     : [HW3](/main/homeworks/#homework-3) <br> due
  
 Apr 7
-: **Lecture 20**{: .label .label-orange} Transformers and Self-supervised Learning
+: **Lecture 19**{: .label .label-orange} Transformers and Self-supervised Learning
     : 
 
 Apr 9
-: **Lecture 21 (Guest)**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT ([Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/))
+: **Lecture 20 (Guest)**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT ([Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/))
     : [HW4](/main/homeworks/#homework-4) <br> out
 
 Apr 14
-: **Lecture 22 (Guest)**{: .label .label-orange} Distributed ML and accelerators ([Rohan Anil](https://scholar.google.com/citations?user=m2qHgbwAAAAJ&hl=en))
+: **Lecture 21 (Guest)**{: .label .label-orange} Distributed ML and accelerators ([Rohan Anil](https://scholar.google.com/citations?user=m2qHgbwAAAAJ&hl=en))
     : 
 
 Apr 16
-: **Lecture 23 (Guest)**{: .label .label-orange} Diffusion Models ([Chitwan Saharia](https://scholar.google.co.in/citations?user=JApued4AAAAJ&hl=en))
+: **Lecture 22 (Guest)**{: .label .label-orange} Diffusion Models ([Chitwan Saharia](https://scholar.google.co.in/citations?user=JApued4AAAAJ&hl=en))
     : 
 
 Apr 21
-: **Lecture 24 (Guest)**{: .label .label-orange}  *Reinforcement Learning (Tentative)*
+: **Lecture 23 (Guest)**{: .label .label-orange}  Reinforcement Learning ([Nived Rajaraman](https://nivedr.github.io/))
     : [HW4](/main/homeworks/#homework-4) <br> due
 
 Apr 23
