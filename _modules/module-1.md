@@ -99,15 +99,15 @@ Mar 26
     : 
 
 Mar 31
-: **Lecture 17**{: .label .label-orange} Deep Learning Architectures (MLP, CNN, RNN, LSTM)
+: **Lecture 17**{: .label .label-orange} Language Modeling Part 1
     : 
 
 Apr 2
-: **Lecture 18**{: .label .label-orange} Regularization in Deep Learning (Dropout, BatchNorm, LayerNorm)
+: **Lecture 18**{: .label .label-orange} Language Modeling Part 2
     : [HW3](/main/homeworks/#homework-3) <br> due
  
 Apr 7
-: **Lecture 19**{: .label .label-orange} Transformers and Self-supervised Learning
+: **Lecture 19**{: .label .label-orange} Graph Clustering
     : 
 
 Apr 9
