@@ -116,7 +116,7 @@ Apr 7
 
 Apr 9
 : **Lecture 20 (Guest)**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT ([Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/))
-    : [HW4](/main/homeworks/#homework-4) <br> out
+    : 
 
 Apr 14
 : **Lecture 21 (Guest)**{: .label .label-orange} Distributed ML and accelerators ([Rohan Anil](https://scholar.google.com/citations?user=m2qHgbwAAAAJ&hl=en))
