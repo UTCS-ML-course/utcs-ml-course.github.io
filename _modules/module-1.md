@@ -99,16 +99,20 @@ Mar 26
     : 
 
 Mar 31
-: **Lecture 17**{: .label .label-orange} Language Modeling Part 1
+: **Lecture 17**{: .label .label-orange} [Language Modeling Part 1](/main/Lectures/#lecture-17)
     : 
 
 Apr 2
-: **Lecture 18**{: .label .label-orange} Language Modeling Part 2
+: **Lecture 18**{: .label .label-orange} [Language Modeling Part 2](/main/Lectures/#lecture-18)
+    : 
+
+Apr 4
+: **Deadline**{: .label .label-gray}
     : [HW3](/main/homeworks/#homework-3) <br> due
  
 Apr 7
 : **Lecture 19**{: .label .label-orange} Graph Clustering
-    : 
+    : [HW4](/main/homeworks/#homework-4) <br> out
 
 Apr 9
 : **Lecture 20 (Guest)**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT ([Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/))
@@ -122,9 +126,13 @@ Apr 16
 : **Lecture 22 (Guest)**{: .label .label-orange} Diffusion Models ([Chitwan Saharia](https://scholar.google.co.in/citations?user=JApued4AAAAJ&hl=en))
     : 
 
+Apr 18
+: **Deadline**{: .label .label-gray}
+    : [HW4](/main/homeworks/#homework-4) <br> due
+
 Apr 21
 : **Lecture 23 (Guest)**{: .label .label-orange}  Reinforcement Learning ([Nived Rajaraman](https://nivedr.github.io/))
-    : [HW4](/main/homeworks/#homework-4) <br> due
+    : 
 
 Apr 23
 : **Project Presentations**{: .label .label-purple}
