@@ -111,11 +111,11 @@ Apr 4
     : [HW3](/main/homeworks/#homework-3) <br> due
  
 Apr 7
-: **Lecture 19**{: .label .label-orange} Graph Clustering
+: **Lecture 19**{: .label .label-orange} [Graph Clustering](/main/Lectures/#lecture-19)
     : [HW4](/main/homeworks/#homework-4) <br> out
 
 Apr 9
-: **Lecture 20 (Guest)**{: .label .label-orange} Modern ML: Pre-training, Fine-tuning, In-context learning, PEFT ([Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/))
+: **Lecture 20 (Guest)**{: .label .label-orange} [LLM Prompting and Fine-tuning](/main/Lectures/#lecture-20) ([Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/))
     : 
 
 Apr 14
@@ -138,7 +138,7 @@ Apr 23
 : **Project Presentations**{: .label .label-purple}
 
 Apr 28
-: **Project Presentations**{: .label .label-purple}
+: **Project Presentations**{: .label .label-purple} *Last Class Day*
 
 May 3
 : **Project Report Due**{: .label .label-purple}
