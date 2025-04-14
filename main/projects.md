@@ -5,9 +5,7 @@ nav_order: 3
 
 # Final Project
 
-## Final Project Presentation & Report Guidelines
-
-### Presentation
+## Presentation
 
 Final project presentations will take place on **April 23** and **April 28**. Each group should sign up for a presentation slot using the signup sheet linked below:
 
@@ -26,7 +24,7 @@ We recognize that the final project report is due after the presentations, on **
 
 This is a good opportunity to receive feedback on your approach and in-progress results.
 
-### Final Report
+## Final Report
 
 The final report is due on **May 3**. It should be a **5–10 page mini-paper** written in the format of a NeurIPS conference paper.
 
