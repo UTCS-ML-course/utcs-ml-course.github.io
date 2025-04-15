@@ -119,7 +119,7 @@ Apr 9
     : 
 
 Apr 14
-: **Lecture 21 (Guest)**{: .label .label-orange} Distributed ML and accelerators ([Rohan Anil](https://scholar.google.com/citations?user=m2qHgbwAAAAJ&hl=en))
+: **Lecture 21 (Guest)**{: .label .label-orange} [Distributed ML and accelerators](/main/Lectures/#lecture-21) ([Rohan Anil](https://scholar.google.com/citations?user=m2qHgbwAAAAJ&hl=en))
     : 
 
 Apr 16
