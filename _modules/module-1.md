@@ -99,11 +99,11 @@ Mar 26
     : 
 
 Mar 31
-: **Lecture 17**{: .label .label-orange} [Language Modeling Part 1](/main/Lectures/#lecture-17)
+: **Lecture 17**{: .label .label-orange} [Language Modelling Part 1](/main/Lectures/#lecture-17)
     : 
 
 Apr 2
-: **Lecture 18**{: .label .label-orange} [Language Modeling Part 2](/main/Lectures/#lecture-18)
+: **Lecture 18**{: .label .label-orange} [Language Modelling Part 2](/main/Lectures/#lecture-18)
     : 
 
 Apr 4
