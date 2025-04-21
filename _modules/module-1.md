@@ -123,7 +123,7 @@ Apr 14
     : 
 
 Apr 16
-: **Lecture 22 (Guest)**{: .label .label-orange} Diffusion Models ([Chitwan Saharia](https://scholar.google.co.in/citations?user=JApued4AAAAJ&hl=en))
+: **Lecture 22 (Guest)**{: .label .label-orange} [Diffusion Models](/main/Lectures/#lecture-22) ([Chitwan Saharia](https://scholar.google.co.in/citations?user=JApued4AAAAJ&hl=en))
     : 
 
 Apr 18
@@ -131,7 +131,7 @@ Apr 18
     : [HW4](/main/homeworks/#homework-4) <br> due
 
 Apr 21
-: **Lecture 23 (Guest)**{: .label .label-orange}  Reinforcement Learning ([Nived Rajaraman](https://nivedr.github.io/))
+: **Lecture 23 (Guest)**{: .label .label-orange}  [Reinforcement Learning](/main/Lectures/#lecture-23) ([Nived Rajaraman](https://nivedr.github.io/))
     : 
 
 Apr 23
