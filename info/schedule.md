@@ -8,8 +8,8 @@ nav_order: 0
 
 # Course Schedule
 
-{: .warning}
-Lecture topics are tentative and subject to change.
+<!-- {: .warning}
+Lecture topics are tentative and subject to change. -->
 
 {% for module in site.modules %}
 {{ module }}
